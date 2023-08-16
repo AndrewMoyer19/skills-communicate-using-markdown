@@ -6,7 +6,7 @@
 $money = "Power";
 ```
 
-- [ ] Scream at the top your lungs
+- [X] Scream at the top your lungs
 - [ ] Breathe out deeply
 - [ ] Finish GitHub assignment 
 
